@@ -2,9 +2,6 @@
 
 <p id="description">A simple and responsive Body Mass Index (BMI) Calculator built with React and Tailwind CSS. It helps users quickly calculate their BMI based on their weight (kg) and height (m) showing results instantly with a smooth and minimal UI. 🚀 Features ⚡ Real-time BMI calculation 🎨 Clean and modern UI using Tailwind CSS 📱 Fully responsive design 🧾 Displays BMI value up to 2 decimal places 💡 Simple and beginner-friendly React component structure 🧩 Tech Stack React.js – Component-based UI Tailwind CSS – Styling and layout JavaScript (ES6) – Logic and functionality 💻 How to Run Locally # Clone this repository git clone https://github.com/yourusername/bmi-calculator.git # Go into the project folder cd bmi-calculator # Install dependencies npm install # Start the development server npm run dev Then open your browser and go to http://localhost:5173/ (or the link shown in terminal). 📊 Example Output Weight: 70 kg Height: 1.75 m Your BMI: 22.86 ✅ Normal weight range 🌟 Future Improvements Add BMI category display (Underweight Normal Overweight Obese) Include metric/imperial unit toggle</p>
 
-<h2>🚀 Demo</h2>
-
-[bmi-calculator-hp4y-awhlt6e9f-harshirs-projects.vercel.app](bmi-calculator-hp4y-awhlt6e9f-harshirs-projects.vercel.app)
 
   
   
